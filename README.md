@@ -4,11 +4,8 @@ Hi, I like coding so I made a Simple Intrest Calculator, The Instructions to Use
 
 // Requires node.js to work
 
-Please first open your shell on your Computer (Terminal in Mac & Linux, CMD in Windows), Then type the follwoing commands
+Please first open your shell on your Computer (Terminal in Mac & Linux, CMD in Windows), Then type the following commands
 >git clone https://github.com/pnv28/Simple-Intrest-Calculator
-
-If you want to keep it in particular File, use the following command before the the clone command
->cd [File Name]
 
 Then type the command
 >cd Simple-Intrest-Calculator
