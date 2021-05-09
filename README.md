@@ -2,7 +2,7 @@
  
 Hi, I like coding so I made a Simple Intrest Calculator, The Instructions to Use are Below
 
-**Note Requires node.js to Work
+**Note Requires node.js to Work  **
 
 Please first open your shell on your Computer (Terminal in Mac & Linux, CMD in Windows), Then type the follwoing commands
 >git clone https://github.com/pnv28/Simple-Intrest-Calculator
